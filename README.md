@@ -7,6 +7,7 @@
   <a href="https://www.instagram.com/ylan_costa/">
   <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   <a/>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
 
