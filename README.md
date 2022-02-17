@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/ilan-costa-146599222/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,7 +11,7 @@
 </div>
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
     <h1>
-      eai mano
+      Olá Stalker
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
