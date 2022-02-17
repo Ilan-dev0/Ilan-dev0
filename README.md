@@ -14,7 +14,12 @@
   <img src="https://komarev.com/ghpvc/?username=ilan-dev0&style=flat-square&color=blue" alt=""/>
 
   <h1>
-  hey there
+  Olá Stalker
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" width="600" height="300"/>
+</div>
+
